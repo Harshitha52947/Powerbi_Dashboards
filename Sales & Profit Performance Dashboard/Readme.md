@@ -55,4 +55,5 @@ If you have ideas for improvements, spot an issue, or want to suggest new featur
 
 Your Name - gongati.harshitha@gmail.com
 
-Project Link: [https://github.com/Harshitha52947/Powerbi_Dashboards]
+Project Link: [Sales & Profit Performance Dashboard/Sales_Analytics_Dashboard.pbix]
+
